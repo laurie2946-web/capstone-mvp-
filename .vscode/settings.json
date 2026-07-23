@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "capstone-mvp-.sln"
+    "dotnet.defaultSolution": "capstone-mvp-.slnx"
 }
